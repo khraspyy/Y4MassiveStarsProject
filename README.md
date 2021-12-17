@@ -1,4 +1,4 @@
-# Y4MassiveStarsProject
+# Y4 Massive Stars Project - Khang Nguyen
 A repository to store codes, notes and any work related to my Y4 project
 
 In here, you can find individual folders dedicated for different purposes of the research process:
