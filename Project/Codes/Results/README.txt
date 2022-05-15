@@ -3,4 +3,4 @@ of the available Wolf-Rayet stars and put them in their separate folders. Since 
 would generate a massive amount of data, I will only include the notebook here and the data and results 
 would be appended later (by other means).
 
-(Update) Current results are now available via the included compressed file in this folder - 'Results.rar'
+(Update) Current results are now available via the included compressed files in this folder - 'Results.rar'
